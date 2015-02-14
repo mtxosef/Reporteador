@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\GitHub\Reporteador\Reportes\Cristalito\Cristalito\bin\Cristalito.dll
+C:\Users\Administrator\Documents\GitHub\Reporteador\Reportes\Cristalito\Cristalito\bin\Cristalito.pdb
+C:\Users\Administrator\Documents\GitHub\Reporteador\Reportes\Cristalito\Cristalito\obj\Debug\Cristalito.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Reporteador\Reportes\Cristalito\Cristalito\obj\Debug\Cristalito.dll
+C:\Users\Administrator\Documents\GitHub\Reporteador\Reportes\Cristalito\Cristalito\obj\Debug\Cristalito.pdb
