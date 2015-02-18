@@ -31,8 +31,7 @@ namespace Cristalito
                             var reporte = new ReportDocument();
                             reporte.Load(Server.MapPath("Usuarios.rpt"));
                             reporte.SetDataSource(ds.Tables[0]);
-                            reporte.DataSourceConnections[0].SetConnection("GIOVANNI-PC", "plantas", "sa", "");
-
+                            reporte.DataSourceConnections[0].SetConnection("GIOVANNI-PC", "plantas", "sa", ""); 
                             CrystalReportViewer1.ReportSource = reporte;
                         } // end using adaptador
                     } // end using comando
