@@ -29,7 +29,7 @@ namespace Cristalito
                             adaptador.Fill(ds);
 
                             var reporte = new ReportDocument();
-                            reporte.Load(Server.MapPath("Usuarios.rpt"));
+                            reporte.Load(Server.MapPath("Presupuesto.rpt"));
                             reporte.SetDataSource(ds.Tables[0]);
                             reporte.DataSourceConnections[0].SetConnection("GIOVANNI-PC", "plantas", "sa", ""); 
                             CrystalReportViewer1.ReportSource = reporte;
@@ -64,10 +64,9 @@ namespace Cristalito
                             adaptador.Fill(ds);
 
                             var reporte = new ReportDocument();
-                            reporte.Load(Server.MapPath("Usuarios.rpt"));
+                            reporte.Load(Server.MapPath("Presupuesto.rpt"));
                             reporte.SetDataSource(ds.Tables[0]);
                             reporte.DataSourceConnections[0].SetConnection("GIOVANNI-PC", "plantas", "sa", "");
-
                             CrystalReportViewer1.ReportSource = reporte;
                         } // end using adaptador
                     } // end using comando
@@ -84,5 +83,6 @@ namespace Cristalito
                 }
             }
         }
+
     }
 }

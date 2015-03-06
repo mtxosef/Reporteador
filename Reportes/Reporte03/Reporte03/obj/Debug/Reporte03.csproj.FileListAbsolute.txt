@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\GitHub\Reporteador\Reportes\Reporte03\Reporte03\bin\Reporte03.dll
+C:\Users\Administrator\Documents\GitHub\Reporteador\Reportes\Reporte03\Reporte03\bin\Reporte03.pdb
+C:\Users\Administrator\Documents\GitHub\Reporteador\Reportes\Reporte03\Reporte03\obj\Debug\Reporte03.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Reporteador\Reportes\Reporte03\Reporte03\obj\Debug\Reporte03.dll
+C:\Users\Administrator\Documents\GitHub\Reporteador\Reportes\Reporte03\Reporte03\obj\Debug\Reporte03.pdb

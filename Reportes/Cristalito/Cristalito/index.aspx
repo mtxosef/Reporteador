@@ -14,7 +14,7 @@
     <div>
        <asp:Label ID="lblMensaje" runat="server" Text=""></asp:Label> 
         <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
-        <asp:Button ID="Button1" runat="server" Text="Button" OnClick="getReportByParam" />
+        <asp:Button ID="Button1" runat="server" Text="Generar" OnClick="getReportByParam" />
         <CR:CrystalReportViewer ID="CrystalReportViewer1" runat="server" AutoDataBind="true" />
     </div>
     </form>
